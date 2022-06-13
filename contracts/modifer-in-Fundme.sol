@@ -2,10 +2,7 @@
 
 pragma solidity ^0.8.8;
 
-/*  9th lesson, in this lesson we are creating a contract with this functionalities -
-  Get funds from users 
-  Withdraw funds
-  Set a minimum funding value in USD */
+/*  11th lesson, in this lesson we learning about modifiers */
 
 
 // now, we want to set the msg.value >= minimumUSD, but the value is in Ether and we are setting it in USD
